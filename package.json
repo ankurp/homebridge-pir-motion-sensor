@@ -1,0 +1,33 @@
+{
+  "name": "homebridge-motion-sensor",
+  "version": "1.0.0",
+  "description": "Hombridge plugin for Motion Sensor",
+  "main": "index.js",
+  "engines": {
+    "node": ">=6.12.2",
+    "homebridge": ">=0.4.33"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ankurp/homebridge-motion-sensor.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "motion-sensor",
+    "raspberry-pi",
+    "homebridge"
+  ],
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "Ankur Patel <ankur.patel@ymail.com> (https://www.encoredevlabs.com)",
+  "license": "ISC",
+  "dependencies": {
+    "rpi-gpio": "^0.9.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}

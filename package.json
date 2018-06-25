@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-motion-sensor",
+  "name": "homebridge-pir-motion-sensor",
   "version": "1.0.0",
   "description": "Hombridge plugin for Motion Sensor",
   "main": "index.js",
@@ -9,10 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ankurp/homebridge-motion-sensor.git"
+    "url": "https://github.com/ankurp/homebridge-pir-motion-sensor.git"
   },
   "keywords": [
     "homebridge-plugin",
+    "pir",
     "motion-sensor",
     "raspberry-pi",
     "homebridge"

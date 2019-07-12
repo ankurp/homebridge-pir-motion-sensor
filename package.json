@@ -24,7 +24,7 @@
   "author": "Ankur Patel <ankur.patel@ymail.com> (https://www.encoredevlabs.com)",
   "license": "ISC",
   "dependencies": {
-    "rpi-gpio": "^0.9.1"
+    "rpi-gpio": ">=0.9.1"
   },
   "devDependencies": {
     "eslint": "^4.13.1",

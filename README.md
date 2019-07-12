@@ -4,4 +4,4 @@ This is a [homebridge](https://github.com/nfarina/homebridge) plugin to make a R
 
 Just add the included sample config to your homebridge config file located at this path `~/.homebridge/config.json`.
 
-For Raspberry Pi add user homebridge to the gpio group: sudo adduser homebridge gpio
+For Raspberry Pi add user homebridge to the gpio group: ``sudo adduser homebridge gpio``
